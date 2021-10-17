@@ -156,7 +156,7 @@ function App() {
                   id="both"
                   name="QestionType"
                   value=""
-                  onClick={() => handleQestionType("both")}
+                  onClick={() => handleQestionType("")}
                 />
                 <label htmlFor="both">Both</label>
                 <br />
